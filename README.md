@@ -49,40 +49,7 @@ npm run prod
 ```
 
 
-<img src="img/React App (1).png">
 
----
-
-<img src="img/React App (4).png">
-
----
-
-<img src="img/React App (3).png">
-
----
-
-<img src="img/React App (6).png">
-
----
-
-<img src="img/React App (8).png">
-
----
-
-<img src="img/React App (9).png">
-
----
-
-<img src="img/React App (11).png">
-
----
-<img src="img/React App (10).png">
-
----
-
-<img src="img/Welcome - Braintree Gateway.png">
-
----
 
 ## Main Technologies
 
